@@ -1,0 +1,1 @@
+This repository contains main code for implementing a web service that hosts all the information for the Seedbed of Competitive Programming of the Pontifical Bolivarian University at Bucaramanga.
